@@ -12,7 +12,7 @@ body {
 button:hover {cursor: pointer;}
 
 .main {
-    background: url('../AppLab/img/background.png') no-repeat center top;
+    background: url('img/background.png') no-repeat center top;
     height: 100vh;
     min-height: 969px;
 }
@@ -130,7 +130,7 @@ header {
     width: 40px;
     border-radius: 40px;
     background-color: #fff;
-    content: url("../AppLab/img/checked.svg");
+    content: url("img/checked.svg");
 }
 
 .editors-choice > p {padding: 5px 0;}
